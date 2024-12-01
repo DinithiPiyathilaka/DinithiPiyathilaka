@@ -121,7 +121,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinithipiyathilaka&langs_count=6&hide_title=true&layout=compact&theme=radical&border_radius=10" alt="top languages" />
 </p>
 
-<h3 align="left">Contributions:</h3>
-<p align="left">
-  <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=dinithipiyathilaka&theme=github&hide_border=true&border_radius=10" alt="activity graph" />
-</p>
+
+
+
