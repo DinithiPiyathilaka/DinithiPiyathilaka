@@ -6,22 +6,9 @@
   <img src="https://komarev.com/ghpvc/?username=dinithipiyathilaka&label=Profile%20views&color=0e75b6&style=flat" alt="dinithipiyathilaka" />
 </p>
 
-<h5 align="center">
-  I'm Piyathilaka, a full-stack developer passionate about building modern web applications. I specialize in:
-  <ul>
-    <li>Frontend: <b>React, JavaScript, HTML, CSS</b></li>
-    <li>Backend: <b>Node.js, Express, SpringBoot</b></li>
-    <li>Database: <b>MongoDB, MySQL, SQL</b></li>
-    <li>Tools: <b>Git, Postman, VSCode</b></li>
-    <li>Cloud: <b>AWS (beginner)</b></li>
-  </ul>
-  I enjoy solving complex problems and continuously strive to learn new technologies.
-</h5>
 
-<!-- Animated GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/dWDo9n4vbdGOY/giphy.gif" alt="developer animation" width="400" height="200"/>
-</p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -110,16 +97,7 @@
   </a>
 </p>
 
-<h3 align="left">Github Stats:</h3>
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinithipiyathilaka&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&show_icons=true&theme=radical&border_radius=10&locale=en&layout=compact" alt="github stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dinithipiyathilaka&hide_border=true&theme=radical&border_radius=10" alt="streak stats" />
-</p>
 
-<h3 align="left">Top Languages:</h3>
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinithipiyathilaka&langs_count=6&hide_title=true&layout=compact&theme=radical&border_radius=10" alt="top languages" />
-</p>
 
 
 
